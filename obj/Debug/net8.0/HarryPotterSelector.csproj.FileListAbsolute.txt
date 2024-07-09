@@ -1,0 +1,14 @@
+/Users/peteraisthorpe/Documents/HarryPotterSelector/bin/Debug/net8.0/HarryPotterSelector
+/Users/peteraisthorpe/Documents/HarryPotterSelector/bin/Debug/net8.0/HarryPotterSelector.deps.json
+/Users/peteraisthorpe/Documents/HarryPotterSelector/bin/Debug/net8.0/HarryPotterSelector.runtimeconfig.json
+/Users/peteraisthorpe/Documents/HarryPotterSelector/bin/Debug/net8.0/HarryPotterSelector.dll
+/Users/peteraisthorpe/Documents/HarryPotterSelector/bin/Debug/net8.0/HarryPotterSelector.pdb
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/HarryPotterSelector.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/HarryPotterSelector.AssemblyInfoInputs.cache
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/HarryPotterSelector.AssemblyInfo.cs
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/HarryPotterSelector.csproj.CoreCompileInputs.cache
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/HarryPotterSelector.dll
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/refint/HarryPotterSelector.dll
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/HarryPotterSelector.pdb
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/HarryPotterSelector.genruntimeconfig.cache
+/Users/peteraisthorpe/Documents/HarryPotterSelector/obj/Debug/net8.0/ref/HarryPotterSelector.dll
